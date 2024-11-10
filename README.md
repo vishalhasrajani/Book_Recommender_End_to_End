@@ -116,7 +116,7 @@ To run the project locally, follow these steps:
 
 > Below is a quick GIF demonstrating the app interface and user flow.
 
-<img src="templates/app_demo.gif" alt="App Walkthrough" width="70%">
+<img src="demo_book.gif" alt="App Walkthrough" width="70%">
 
 ---
 
